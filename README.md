@@ -107,4 +107,4 @@ Conclusion
 
 GazaliEdge is a versatile and informative tool for anyone looking to dive into stock analysis with an interactive experience. While it currently has some limitations, the program offers powerful insights through technical and fundamental data, alongside practical recommendations. With further enhancements, GazaliEdge will evolve into a seamless, all-in-one stock analysis tool.
 
-Enjoy exploring GazaliEdge and making data-driven financial decisions
+Enjoy exploring GazaliEdge and making data-driven financial decisions!
